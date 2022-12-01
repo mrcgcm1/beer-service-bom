@@ -1,1 +1,1 @@
-Spring BOM per le birre
+# beer-service-bom-bew
